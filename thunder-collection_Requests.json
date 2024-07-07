@@ -1,0 +1,71 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Requests",
+    "collectionId": "b27ddb70-2414-4d29-8e19-a7da7c615d41",
+    "dateExported": "2024-07-07T14:43:08.397Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "3dae708d-7e33-436e-9d0f-25a272701381",
+            "colId": "b27ddb70-2414-4d29-8e19-a7da7c615d41",
+            "containerId": "",
+            "name": "Pizzas",
+            "url": "http://127.0.0.1:5555/pizzas",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-07-07T11:38:57.922Z",
+            "modified": "2024-07-07T11:39:29.766Z",
+            "headers": []
+        },
+        {
+            "_id": "72025439-9986-468e-897f-2c017f193a67",
+            "colId": "b27ddb70-2414-4d29-8e19-a7da7c615d41",
+            "containerId": "",
+            "name": "Restaurants",
+            "url": "http://127.0.0.1:5555/restaurants",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-07-07T11:39:51.283Z",
+            "modified": "2024-07-07T11:40:07.226Z",
+            "headers": []
+        },
+        {
+            "_id": "aa381882-97b7-45fe-a64b-abf43568a22a",
+            "colId": "b27ddb70-2414-4d29-8e19-a7da7c615d41",
+            "containerId": "",
+            "name": "Restaurants_by id",
+            "url": "http://127.0.0.1:5555/restaurants/19",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-07-07T11:40:37.816Z",
+            "modified": "2024-07-07T11:40:56.806Z",
+            "headers": []
+        },
+        {
+            "_id": "c01dbd98-a2e6-4847-9001-6dce3544d49f",
+            "colId": "b27ddb70-2414-4d29-8e19-a7da7c615d41",
+            "containerId": "",
+            "name": "Restaurants_pizzas",
+            "url": "http://127.0.0.1:5555/restaurant_pizzas",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2024-07-07T11:41:55.416Z",
+            "modified": "2024-07-07T11:42:30.276Z",
+            "headers": []
+        },
+        {
+            "_id": "f7647536-545d-43d8-8846-cfe97785b02b",
+            "colId": "b27ddb70-2414-4d29-8e19-a7da7c615d41",
+            "containerId": "",
+            "name": "Restaurants",
+            "url": "http://127.0.0.1:5555/restaurants/11",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2024-07-07T11:43:04.420Z",
+            "modified": "2024-07-07T11:43:29.436Z",
+            "headers": []
+        }
+    ],
+    "ref": "BXOrYedHMIVjShOC-hh11g76UK0Ps7c4UCiM2Hsgq4gmOt5urcWEyQFjrM-Mg-R2Rztm6CqfuuQzLjOYVZdaPg"
+}
